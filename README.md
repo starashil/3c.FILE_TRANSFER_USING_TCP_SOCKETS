@@ -11,7 +11,7 @@ To write a python program for creating File Transfer using TCP Sockets Links
 
 ##CLIENT
 
-![Uploading {04AF7827-A20E-45A8-8DBD-24ED0361DFE8}.png…]()
+![{04AF7827-A20E-45A8-8DBD-24ED0361DFE8}](https://github.com/user-attachments/assets/bf601902-c986-4325-8efe-0cf7bc043752)
 
 
 ##SERVER
